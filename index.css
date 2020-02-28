@@ -1,0 +1,70 @@
+header {
+  background-color: grey;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.logo-utama {
+  width: 50px;
+  height: 55px;
+  object-fit: cover;
+}
+
+.logo-type {
+  margin-top: 20px;
+  margin-left: 12px;
+}
+
+.logo-masuk {
+  width: 50px;
+  height: 55px;
+  object-fit: cover;
+  position: relative;
+  margin-left: 100px;
+}
+
+.logo-daftar {
+  width: 50px;
+  height: 55px;
+  object-fit: cover;
+  position: relative;
+}
+
+/* ul.navbar-nav {
+    margin-top: 20px;
+    margin-left: 7px;
+} */
+
+li.nav-item {
+  border-right-style: groove;
+  height: 40px;
+}
+
+h2.headline {
+  font-family: "Rajdhani";
+}
+
+.footer {
+  flex: content;
+  color: brown;
+}
+
+.tulisan-footer-hijau {
+  color: white;
+  margin-left: 15px;
+  text-align: left;
+  margin-right: 300px;
+}
+
+.pembatas {
+  border-left-style: solid;
+  border-color: whitesmoke;
+  border-spacing: 20px;
+  height: 200px;
+  margin-left: 730px;
+  position: absolute;
+  float: right;
+}
